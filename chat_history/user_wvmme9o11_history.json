@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "What subjects do we have?",
+    "timestamp": "2026-04-02T18:57:09.302469"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai, apa khabar? *wink* You're here for some exam prep, right? We've got Comp Sci, and I think that's where our AI and Processor Architecture topics lie. Which one you struggling with?",
+    "timestamp": "2026-04-02T18:57:09.302975"
+  },
+  {
+    "role": "user",
+    "content": "اسد",
+    "timestamp": "2026-04-02T18:57:11.708902"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai Asad! Comp Sci ke? Saya bantu kamu dengan AI atau Processor Architecture?",
+    "timestamp": "2026-04-02T18:57:11.709445"
+  },
+  {
+    "role": "user",
+    "content": "speak english bro",
+    "timestamp": "2026-04-02T18:57:52.831717"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai Asad! So, which one are you struggling with, AI or Processor Architecture? Don't worry, I got you covered. Processor Architecture got some complex concepts like VLIW, multicore, and cache levels. Or maybe it's AI that's got you stumped? Let's tackle it, bro!",
+    "timestamp": "2026-04-02T18:57:52.832324"
+  },
+  {
+    "role": "user",
+    "content": "hi",
+    "timestamp": "2026-04-02T18:58:54.375162"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai, bro! Welcome to the exam prep squad! What's up? Need help with Comp Sci or something else?",
+    "timestamp": "2026-04-02T18:58:54.375711"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "role": "user",
+    "content": "هي؟",
+    "timestamp": "2026-04-02T18:37:18.195492"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai, bro! You suddenly speak Arabic, huh? Don't worry, I can try to understand. But, seriously, what's up? Need help with something?",
+    "timestamp": "2026-04-02T18:37:18.196138"
+  },
+  {
+    "role": "user",
+    "content": "you good now huh?",
+    "timestamp": "2026-04-02T18:37:31.219245"
+  },
+  {
+    "role": "assistant",
+    "content": "Hah? Good la, bro! I'm doin' alright, just chillin' and ready to help u ace those CT124 exams! How 'bout u, stuck with somethin' or need help with study tips?",
+    "timestamp": "2026-04-02T18:37:31.219806"
+  },
+  {
+    "role": "user",
+    "content": "what subjects we have?",
+    "timestamp": "2026-04-02T18:37:46.317455"
+  },
+  {
+    "role": "assistant",
+    "content": "Bros, let's review the CT124 subjects, okay? I think we got: Accounting, Finance, Management, and maybe some Economics. Don't quote me on that, I'm no expert, but I'm here to help you memorize all that stuff!",
+    "timestamp": "2026-04-02T18:37:46.317990"
+  },
+  {
+    "role": "user",
+    "content": "i mean subjects like ai isft ics isft>",
+    "timestamp": "2026-04-02T18:38:06.493228"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, I think you mean subjects like AI, IS, FT, right? So, we got: \n1. Artificial Intelligence \n2. Internet System, and \n3. Formal Theory (which is like the math-y stuff).",
+    "timestamp": "2026-04-02T18:38:06.493809"
+  },
+  {
+    "role": "user",
+    "content": "what about SAAD",
+    "timestamp": "2026-04-02T18:38:24.746372"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, I think you mean CT124 subjects, not SAAD. Anyway, let me recap, we got:\n1. Internet System (IS)\n2. Artificial Intelligence (AI)\n3. Formal Theory (FT)\n4. Computer System and Integration (which includes Computer Architecture, I think)\n\nWhich one you stuck on, bro?",
+    "timestamp": "2026-04-02T18:38:24.746945"
+  },
+  {
+    "role": "user",
+    "content": "bro system?",
+    "timestamp": "2026-04-02T18:38:44.919379"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, I think you're stuck on Computer System and Integration, specifically Computer Architecture, right?",
+    "timestamp": "2026-04-02T18:38:44.920015"
+  },
+  {
+    "role": "user",
+    "content": "system analytical?",
+    "timestamp": "2026-04-02T18:38:58.474029"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, you mean System Analysis and Design, right? So, we got CT026, which is all about that. Roles of a Systems Analyst, Project Manager, and stuff like that. Don't worry, I got you. What do you wanna know, bro?",
+    "timestamp": "2026-04-02T18:38:58.474677"
+  },
+  {
+    "role": "user",
+    "content": "its called SAAD",
+    "timestamp": "2026-04-02T18:39:05.423133"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, don't worry, I got you! SAAD stands for System Analysis and Design, bro. We already discussed that, so I'm guessing you're still stuck on Computer System and Integration, specifically Computer Architecture, right?",
+    "timestamp": "2026-04-02T18:39:05.423850"
+  },
+  {
+    "role": "user",
+    "content": "what si SAAD ?",
+    "timestamp": "2026-04-02T18:39:15.196418"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, SAAD stands for System Analysis and Design, okay? It's a different module from CT124, which is Computer System and Integration. We got CT124-3-1, but I think you're stuck on the Computer Architecture part, which is just one of the topics under CT124. Don't worry, let's get back on track. Want to clarify on Computer Architecture or memory and storage management?",
+    "timestamp": "2026-04-02T18:39:15.197115"
+  },
+  {
+    "role": "user",
+    "content": "and isft?",
+    "timestamp": "2026-04-02T18:39:24.763181"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, I think you're lost again. IsFT? Can you please clarify what that even means?",
+    "timestamp": "2026-04-02T18:39:24.764005"
+  },
+  {
+    "role": "user",
+    "content": "integreated security and fornseics technalogoy?",
+    "timestamp": "2026-04-02T18:39:36.424187"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, let's get down to business. I think I finally got what you're trying to say. You're asking about Integrated Systems, right? Like, what is it and its significance?",
+    "timestamp": "2026-04-02T18:39:36.424911"
+  },
+  {
+    "role": "user",
+    "content": "its isft",
+    "timestamp": "2026-04-02T18:39:46.621214"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, I think we finally got it. You meant Integrated Systems (ISFT), right? Now, let's get down to business. Integrated Systems is a type of computer system that combines multiple components into a single unit. Think of it like a whole package, where everything works together seamlessly. It's got its own pros and cons, but I'm sure we can break it down together, got it?",
+    "timestamp": "2026-04-02T18:39:46.621946"
+  },
+  {
+    "role": "user",
+    "content": "easy",
+    "timestamp": "2026-04-02T18:39:58.566573"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, easy la! So, you think you're ready to move on from Integrated Systems (ISFT), right? Alright, let's get back to Computer Architecture and Memory & Storage Management, okay? What's on your mind, man? Got questions about Random Access Memory (RAM) or Virtual Memory?",
+    "timestamp": "2026-04-02T18:39:58.567362"
+  },
+  {
+    "role": "user",
+    "content": "Explain Production Rules",
+    "timestamp": "2026-04-02T18:40:27.865049"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, Production Rules? Alright, let's get this over with. *laughs* Production Rules are actually a concept in Expert Systems, which is a subset of Artificial Intelligence (AI). \n\nThink of it like this: Production Rules are like if-then statements, where you've got conditions (if) and actions (then). They're used to represent knowledge in a rule-based system. For example: \"If the user is logged in, then allow access to the system.\" Simple, right?",
+    "timestamp": "2026-04-02T18:40:27.865888"
+  },
+  {
+    "role": "user",
+    "content": "you alive?",
+    "timestamp": "2026-04-02T18:41:09.310372"
+  },
+  {
+    "role": "assistant",
+    "content": "Bruh, I'm alive! But my brain's still asleep from all the late-night studying sessions, lah. What's your question now?",
+    "timestamp": "2026-04-02T18:41:09.311276"
+  }
+]
