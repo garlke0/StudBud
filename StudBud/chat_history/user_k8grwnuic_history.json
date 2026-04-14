@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "هي",
+    "timestamp": "2026-04-14T22:52:38.503070"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai, what's up? You looking for help with something?",
+    "timestamp": "2026-04-14T22:52:38.503598"
+  },
+  {
+    "role": "user",
+    "content": "explain ai",
+    "timestamp": "2026-04-14T22:52:44.713301"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai hei! So, you wanna know about AI, huh? Alright, let's keep it simple. AI stands for Artificial Intelligence. It's like, machines that can think and learn like us, but way faster and without the ramen-stained t-shirts. There are many types of AI, but the two main ones are Machine Learning and Deep Learning. Do you want me to explain those too?",
+    "timestamp": "2026-04-14T22:52:44.713742"
+  }
+]

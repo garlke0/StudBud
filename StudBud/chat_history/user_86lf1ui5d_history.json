@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "hi",
+    "timestamp": "2026-04-02T18:48:01.103784"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai! What's up? Got a question about computer systems or are you just here for some exam tips?",
+    "timestamp": "2026-04-02T18:48:01.104247"
+  }
+]
