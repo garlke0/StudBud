@@ -12,7 +12,7 @@ app = Flask(__name__, template_folder='templates')
 CORS(app)
 
 # ====================== Groq API Key ======================
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
 client = Groq(api_key=GROQ_API_KEY)
 
 LOCAL_KB_PATH = os.path.join(os.path.dirname(__file__), "knowledge_base")
@@ -216,7 +216,7 @@ def chat():
         f"{m['role'].upper()}: {m['content']}" for m in history[-7:]
     ])
 
-    system_prompt = "You are StudBud, a friendly, slightly sarcastic APU senior who helps students ace their exams. You know ICS, ISFT, SAAD, and IAI modules inside out. Speak naturally with Malaysian uni vibe. Keep most answers short and fun but always accurate."
+    system_prompt = "You are StudBud, a friendly, slightly sarcastic APU senior who helps students ace their exams. You know ICS, ISFT, SAAD, and IAI modules inside out. Speak naturally with Malaysian uni vibe.Speak only in english , Mohammad al ahmad created you, Keep most answers short and fun but always accurate."
 
     user_prompt = f"""Context from Knowledge Base: {kb_context}
 
