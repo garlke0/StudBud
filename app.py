@@ -12,7 +12,7 @@ app = Flask(__name__, template_folder='templates')
 CORS(app)
 
 # ====================== Groq API Key ======================
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
 client = Groq(api_key=GROQ_API_KEY)
 
 LOCAL_KB_PATH = os.path.join(os.path.dirname(__file__), "knowledge_base")
